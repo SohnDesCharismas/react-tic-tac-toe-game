@@ -1,0 +1,22 @@
+.header{
+  margin-left: 41%;
+}
+
+.game-board{
+  margin-left: 47%;
+  display:block;
+  
+}
+.game-info{
+  display: block;
+  margin-left: 45%;
+}
+.move{
+  display: block;
+}
+
+.square {
+  padding: 20px;
+  border-width: 1px;
+}
+
